@@ -1,2 +1,3 @@
 Första raden i andra filen
 Andra raden i fil2.txt
+Tredje raden i fil2.txt
